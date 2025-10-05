@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "milto")(type "KiCad")(uri "${KIPRJMOD}/mito-simplified-main/Seeed Studio XIAO Series Library")(options "")(descr ""))
+)
